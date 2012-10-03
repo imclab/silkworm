@@ -15,7 +15,7 @@
     };
 
     function touchmove(e) {
-	    e.preventDefault();
+        e.preventDefault();
         touch = e.originalEvent.touches[0] || e.originalEvent.changedTouches[0];
         data = { 'pageX' : touch['pageX'], 'pageY' : touch['pageY'] };
         socket.emit('touchmove', data);
