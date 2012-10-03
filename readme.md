@@ -13,3 +13,4 @@ It's an awesome piece of interactive, generative art. To use:
 
 ## Attribution
 The Silk technology was developed independently by Yuri Vishnevsky (yurivish)
+http://new.weavesilk.com
