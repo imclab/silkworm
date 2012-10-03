@@ -10,3 +10,6 @@ It's an awesome piece of interactive, generative art. To use:
 * On your phone, navigate to /phone on the IP that getIp returns (on port 8080)
 * On your browser, navigate to /browser on the same IP (on port 8080)
 * Touch your phone, and wet yourself. It's so beautiful.
+
+## Attribution
+The Silk technology was developed independently by Yuri Vishnevsky (yurivish)
