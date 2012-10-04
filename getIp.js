@@ -49,7 +49,7 @@ var getNetworkIPs = (function () {
 })();
 
 getNetworkIPs(function (error, ip) {
-    console.log(ip);
+    console.log(ip[0]);
     if (error) {
         console.log('error:', error);
     }
